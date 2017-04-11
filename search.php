@@ -1,0 +1,3 @@
+<?php get_header(); ?>
+search results...
+<?php get_footer(); ?>
